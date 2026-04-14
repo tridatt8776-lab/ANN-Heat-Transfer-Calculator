@@ -1,0 +1,6 @@
+{
+  "name": "ThermaLink ANN",
+  "description": "ANN-based heat transfer predictor for industrial boiler composite walls. Visualize thermal gradients and predict heat flux using neural networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
